@@ -1,0 +1,8 @@
+// Editor username list
+// Add each username on separate line
+// This username file is configured in SmartMet::UserNameListFilePath -setting.
+// If that setting is given, sending edited data to server will require selection of username from list in "Send To Database" dialog.
+
+meteorologist1
+meteorologist2
+meteorologist3
